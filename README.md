@@ -18,7 +18,7 @@ ATM Wizard provides a user-friendly interface for users to simulate various ATM 
 7.	Click on “sign in” button for login in account: If you have an existing account, log in by clicking on the “sign in” button and entering your login credentials.
 8.	Perform manipulations like cash deposit, withdraw, mini statement, pin change, etc.: Once you are logged in, you can perform various transactions like depositing cash, withdrawing cash, checking mini statements, and changing the ATM PIN.
 
-**Technologies Used – **
+**Technologies Used –**
 1.	Java Swing: Java Swing is a GUI toolkit for Java, which is used for creating desktop applications with a graphical user interface.
 2.	Java AWT: Java AWT (Abstract Window Toolkit) is a platform-dependent GUI toolkit for Java that provides various components like buttons, text fields, labels, and checkboxes.
 3.	OOPS Concepts: Object-Oriented Programming (OOPS) is a programming paradigm based on the concept of objects, which can contain data and code to manipulate that data.
