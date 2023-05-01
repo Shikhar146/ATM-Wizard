@@ -1,5 +1,6 @@
 # ATM-Wizard
 **Description –**
+
 ATM Wizard provides a user-friendly interface for users to simulate various ATM transactions, such as logging in, depositing cash, withdrawing cash, checking account balance, and obtaining a mini statement. It simulates the ATM environment and enables users to perform transactions securely. With the help of this project, users can learn and practice using an ATM machine in a virtual environment, which can be a useful tool for education and training purposes.
 
 **Installation –**
