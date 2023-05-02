@@ -24,4 +24,4 @@
 2.	Java AWT: Java AWT (Abstract Window Toolkit) is a platform-dependent GUI toolkit for Java that provides various components like buttons, text fields, labels, and checkboxes.
 3.	OOPS Concepts: Object-Oriented Programming (OOPS) is a programming paradigm based on the concept of objects, which can contain data and code to manipulate that data.
 4.	Apache NetBeans IDE: Apache NetBeans IDE is an open-source integrated development environment (IDE) for Java that provides a wide range of tools and features for Java development.
-5.	MySQL: MySQL is a popular open-source relational database management system that is used for storing and managing data in a structured manner. It is widely used for web applications and other software development projects.
+5.	MySQL: MySQL is a popular open-source relational database management system that is used for storing and managing data in a structured manner. It is widely used for web applications and other software development projects. 
